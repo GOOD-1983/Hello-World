@@ -1,2 +1,2 @@
 # Hello-World
-此存储库用于练习Githut流程。
+## 此存储库用于练习Github流程。
